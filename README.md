@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header]((https://github.com/vinaykumargummadi/vinaykumargummadi/blob/main/github-header-image%20(2).png))
+![Header](https://github.com/vinaykumargummadi/vinaykumargummadi/blob/main/github-header-image%20(2).png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumargummadi&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumargummadi" /> </p>
