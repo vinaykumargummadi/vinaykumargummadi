@@ -7,8 +7,6 @@ I'm a software engineer who is passionate about making open-source data science 
 building community. Some technologies I enjoy working with include Machine Learning, Deep Learing, NLP. My interest in the Data Science 
 ecosystem led me to create an chatbot using NLP, a chat where it interacts with the users to get assess users by knowledge and recommend cources. 
 
-![image](https://github.com/vinaykumargummadi/vinaykumargummadi/assets/56590923/33ad440c-9f1e-4ffe-9451-07bb4be3a8f4)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumargummadi&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumargummadi" /> </p>
 
