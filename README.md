@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Vinay Kumar Gummadi</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+![Header](https://github.com/vinaykumargummadi/vinaykumargummadi/blob/main/github-header-image%20(1).png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumargummadi&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumargummadi" /> </p>
 
