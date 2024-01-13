@@ -12,7 +12,7 @@ ecosystem led me to create an chatbot using NLP, a chat where it interacts with 
 
 - 🔭 I’m currently working on [Advance Regression prediction on house prices](https://github.com/vinaykumargummadi/CTREA-Dynamics)
 
-- 🌱 I’m currently learning **Machine Learning Deep Learning, NLP, NLU**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, NLU**
 
 - 📫 How to reach me **gummadivinaykumar18@gmail.com**
 
