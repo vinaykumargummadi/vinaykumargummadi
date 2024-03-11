@@ -10,7 +10,7 @@ ecosystem led me to create an chatbot using NLP, a chat where it interacts with 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumargummadi&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumargummadi" /> </p>
 
-- 🔭 I’m currently working on [Advance Regression prediction on house prices](https://github.com/vinaykumargummadi/CTREA-Dynamics)
+- 🔭 I’m currently working on [Adavance Text Summarization and Topic Modeling](https://github.com/vinaykumargummadi/DSML/Deep Learning/notebooks/NLP)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, NLU**
 
